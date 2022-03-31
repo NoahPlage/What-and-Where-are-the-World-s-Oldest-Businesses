@@ -10,7 +10,7 @@ Like many business problems, the data we'll explore is contained in several diff
 - Using aggregate functions such as `MAX()`, `MIN()`, `COUNT()`
 - Filter techniques such as `WHERE`, `GROUP BY` and `HAVING`
 - Sorting using `ORDER BY`
-- Joiing two tables using `INNER JOIN` and `LEFT JOIN`
+- Joining two tables using `INNER JOIN` and `LEFT JOIN`
 ## Outline
 1. The oldest business in the world
 2. How many businesses were founded before 1000?
